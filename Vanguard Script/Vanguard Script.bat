@@ -1,1 +1,0 @@
-Powershell.exe -executionpolicy remotesigned -File  Vanguard_Script.ps1
