@@ -1,3 +1,4 @@
+:: Creates a invisible folder in the current directory without an icon or name
 echo off
 chcp 65001
 mkdir ".\ "

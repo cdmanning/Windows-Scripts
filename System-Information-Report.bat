@@ -1,4 +1,5 @@
-@ECHO OFF 
+:: Prints to console "detailed" system information (updated for Windows 11)
+@echo off 
 
 TITLE System Info
 
@@ -45,6 +46,5 @@ ipconfig /all | findstr "Host Name"
 ipconfig /all | findstr IPv4
 ipconfig /all | findstr "Subnet Mask"
 ipconfig /all | findstr "Default Gateway"
-
 
 PAUSE
