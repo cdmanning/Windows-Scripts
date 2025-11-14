@@ -1,4 +1,4 @@
-# 🛠️ Windows Batch Scripts (Barebones)
+# 🛠️ Windows Batch Scripts
 
 This is a collection of simple Windows scripts to shortcut infrequent tasks.
 
