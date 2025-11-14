@@ -1,6 +1,6 @@
 # 🛠️ Windows Batch Scripts (Barebones)
 
-This is a collection of simple Windows scripts to shortcut memorizing commands
+This is a collection of simple Windows scripts to shortcut infrequent tasks.
 
 ---
 
